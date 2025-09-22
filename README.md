@@ -1,6 +1,6 @@
-Поможем провайдерам в эпоху дефицита сетевого оборудования: самостоятельно заблокируем ресурсы на своих роутерах и, таким образом, снизим нагрузку на их оборудование!
-
-Зарубежные сервисы пусть знают, что их ресурсы никому не нужны и мы сами у себя их блокируем!
+/etc/init.d/getdomains start
+/etc/init.d/dnsmasq restart
+/etc/init.d/network restart
 
 # Форматы списков
 - Dnsmasq nfset. Для Dnsmasq в формате nftables set (OpenWrt >=23.05) `nftset=/showip.net/4#inet#fw4#vpn_domains`
