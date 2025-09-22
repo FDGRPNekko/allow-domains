@@ -4,6 +4,10 @@
 
 /etc/init.d/network restart
 
+==================== other command ===================
+
+rm -f /etc/init.d/getdomains
+
 # Форматы списков
 - Dnsmasq nfset. Для Dnsmasq в формате nftables set (OpenWrt >=23.05) `nftset=/showip.net/4#inet#fw4#vpn_domains`
 - Dnsmasq ipset. Для Dnsmasq в формате ipset (OpenWrt <= 21.02) `ipset=/showip.net/vpn_domains` 
