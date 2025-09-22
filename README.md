@@ -1,5 +1,7 @@
 /etc/init.d/getdomains start
+
 /etc/init.d/dnsmasq restart
+
 /etc/init.d/network restart
 
 # Форматы списков
