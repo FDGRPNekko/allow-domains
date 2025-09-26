@@ -6,6 +6,8 @@
 
 ==================== other command ===================
 
+nano /tmp/dnsmasq.d/domains.lst
+
 rm -f /etc/init.d/getdomains
 
 # Форматы списков
