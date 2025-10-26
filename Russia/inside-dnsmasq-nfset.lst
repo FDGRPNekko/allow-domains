@@ -928,4 +928,3 @@ nftset=/zendesk.com/4#inet#fw4#vpn_domains
 nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/2ip.io/4#inet#fw4#vpn_domains
-nftset=/freezenet.ru/4#inet#fw4#vpn_domains
